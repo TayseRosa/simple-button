@@ -1,7 +1,5 @@
 
-<h1 align="center">Um botão simples mas estiloso
-
- <h1>
+<h1 align="center">Um botão simples mas estiloso<h1>
 
 
 ![HTML](https://img.shields.io/badge/html-%25E54F26.svg?style=for-the-badge&logo=html) ![css](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=REACT) 
@@ -10,7 +8,7 @@
 
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="readme_1.png">
+  <img width="100%" style="max-width:100%" src="readme_img2.png">
 </p>
 
 
@@ -51,7 +49,7 @@ Copyright :copyright: 2024 · Desenvolvido por 💜 Tayse Rosa
 
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="readme_1.png">
+  <img width="100%" style="max-width:100%" src="readme_img.png">
 </p>
 
 
