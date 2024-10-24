@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="readme_img2.png">
+  <img width="100%" style="max-width:100%" src="readme_img.png">
 </p>
 
 
